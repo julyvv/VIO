@@ -1,7 +1,7 @@
 # VIO
 
-深蓝学院从零开始手写VIO课程链接：https://pan.baidu.com/s/1b7Kqu_3AiHq1LSf9YMia_A 
-提取码：zl11 
+深蓝学院从零开始手写VIO课程链接：https://pan.baidu.com/s/1c6uPusNBZs2IBCWVEDvD4A 
+提取码：1jrb
 
 这个部分包括了深蓝学院出品的 手写VIO 的资料和学习心得 
 
